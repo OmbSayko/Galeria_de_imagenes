@@ -1,0 +1,7 @@
+---------Esta galería fue creada para uso gratuito, puedes editar, borrar y modificar cualquier punto del template.-----------
+
+---------Es una galería básica, para darte una idea y puedas incorporarla en tu sitio web o en tus proyectos, fue creada en HTML, CSS y JS.-----------
+
+---------En JavaScript se creo un pequeño Script para poder hacer clickeable la imagen------------
+
+--------Fín---------
